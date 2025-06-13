@@ -7,7 +7,7 @@ faciliten las labores del administrador de un data center.
 
 Tips de ejecucion:
 
-para ejecutar el script .ps1 se debe de abrir por consola y ejecutar .\syswatch.ps1 dentro de la carpeta del repositorio
+para ejecutar el script .ps1 se debe de abrir por consola powershell y ejecutar .\syswatch.ps1 dentro de la carpeta del repositorio
 
 para ejecutar el script .sh, se debe de ejecutar por bash a partir del comando ./syswatch.sh, si no se puede ejecutar, se puede corregir mediante el comando sed -i 's/\r$//' syswatch.sh, y luego si ejecutar el comando inicial.
 
